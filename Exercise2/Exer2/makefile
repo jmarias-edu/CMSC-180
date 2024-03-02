@@ -5,6 +5,6 @@ in:
 	gcc main.c -lm -lpthread && ./a.out < ./input.txt
 
 test:
-	gcc test.c -lpthread -o test && ./test
+	gcc main.c -lm -lpthread && ./a.out < ./test.txt
 
 .PHONY: all test clean
