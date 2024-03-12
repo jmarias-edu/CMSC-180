@@ -1,42 +1,138 @@
-n: 16000 # of Threads: 1 Time elapsed: 22.43703
-n: 16000 # of Threads: 1 Time elapsed: 22.43807
-n: 16000 # of Threads: 1 Time elapsed: 22.55388
-n: 16000 # of Threads: 2 Time elapsed: 11.15736
-n: 16000 # of Threads: 2 Time elapsed: 11.12784
-n: 16000 # of Threads: 2 Time elapsed: 11.15221
-n: 16000 # of Threads: 4 Time elapsed: 5.80937
-n: 16000 # of Threads: 4 Time elapsed: 5.81481
-n: 16000 # of Threads: 4 Time elapsed: 5.79407
-n: 16000 # of Threads: 8 Time elapsed: 4.23938
-n: 16000 # of Threads: 8 Time elapsed: 4.33851
-n: 16000 # of Threads: 8 Time elapsed: 4.20934
-n: 16000 # of Threads: 16 Time elapsed: 4.22531
-n: 16000 # of Threads: 16 Time elapsed: 4.14566
-n: 16000 # of Threads: 16 Time elapsed: 4.21569
-n: 16000 # of Threads: 32 Time elapsed: 4.16466
-n: 16000 # of Threads: 32 Time elapsed: 4.18754
-n: 16000 # of Threads: 32 Time elapsed: 4.21560
-n: 16000 # of Threads: 64 Time elapsed: 4.20500
-n: 16000 # of Threads: 64 Time elapsed: 4.30247
-n: 16000 # of Threads: 64 Time elapsed: 4.21575
-n: 10 # of Threads: 10 Time elapsed: 0.00002
-n: 10 # of Threads: 10 Time elapsed: 0.00003
-n: 10 # of Threads: 2 Time elapsed: 0.00005
-n: 10 # of Threads: 2 Time elapsed: 0.00016
-n: 10 # of Threads: 2 Time elapsed: 0.00017
-n: 10 # of Threads: 2 Time elapsed: 0.00047
-n: 10 # of Threads: 2 Time elapsed: 0.00247
-n: 10 # of Threads: 2 Time elapsed: 0.00024
-n: 10 # of Threads: 2 Time elapsed: 0.00020
-n: 10 # of Threads: 3 Time elapsed: 0.00414
-n: 10 # of Threads: 3 Time elapsed: 0.00051
-n: 10 # of Threads: 3 Time elapsed: 0.00059
-n: 10 # of Threads: 3 Time elapsed: 0.00055
-n: 10 # of Threads: 3 Time elapsed: 0.00047
-n: 10 # of Threads: 3 Time elapsed: 0.00032
-n: 10 # of Threads: 3 Time elapsed: 0.00059
-n: 10 # of Threads: 3 Time elapsed: 0.00033
-n: 10 # of Threads: 3 Time elapsed: 0.00053
-n: 100 # of Threads: 2 Time elapsed: 0.00305
-n: 100 # of Threads: 3 Time elapsed: 0.00366
-n: 100 # of Threads: 2 Time elapsed: 0.00171
+n: 25000	 # of Threads: 0	 Type 0	 Time elapsed: 20.38960
+n: 25000	 # of Threads: 0	 Type 0	 Time elapsed: 20.75016
+n: 25000	 # of Threads: 0	 Type 0	 Time elapsed: 20.71051
+n: 25000	 # of Threads: 1	 Type 1	 Time elapsed: 20.40524
+n: 25000	 # of Threads: 1	 Type 1	 Time elapsed: 20.42882
+n: 25000	 # of Threads: 1	 Type 1	 Time elapsed: 20.42679
+n: 25000	 # of Threads: 2	 Type 1	 Time elapsed: 10.03510
+n: 25000	 # of Threads: 2	 Type 1	 Time elapsed: 10.06189
+n: 25000	 # of Threads: 2	 Type 1	 Time elapsed: 10.04772
+n: 25000	 # of Threads: 4	 Type 1	 Time elapsed: 8.81355
+n: 25000	 # of Threads: 4	 Type 1	 Time elapsed: 8.80635
+n: 25000	 # of Threads: 4	 Type 1	 Time elapsed: 8.92724
+n: 25000	 # of Threads: 8	 Type 1	 Time elapsed: 9.48265
+n: 25000	 # of Threads: 8	 Type 1	 Time elapsed: 9.52775
+n: 25000	 # of Threads: 8	 Type 1	 Time elapsed: 9.49049
+n: 25000	 # of Threads: 16	 Type 1	 Time elapsed: 9.53948
+n: 25000	 # of Threads: 16	 Type 1	 Time elapsed: 9.74418
+n: 25000	 # of Threads: 16	 Type 1	 Time elapsed: 9.68244
+n: 25000	 # of Threads: 32	 Type 1	 Time elapsed: 9.51933
+n: 25000	 # of Threads: 32	 Type 1	 Time elapsed: 9.45914
+n: 25000	 # of Threads: 32	 Type 1	 Time elapsed: 9.50961
+n: 25000	 # of Threads: 64	 Type 1	 Time elapsed: 9.72520
+n: 25000	 # of Threads: 64	 Type 1	 Time elapsed: 9.56718
+n: 25000	 # of Threads: 64	 Type 1	 Time elapsed: 9.57223
+
+n: 25000	 # of Threads: 1	 Type 2	 Time elapsed: 28.02866
+n: 25000	 # of Threads: 1	 Type 2	 Time elapsed: 27.97929
+n: 25000	 # of Threads: 1	 Type 2	 Time elapsed: 27.97352
+n: 25000	 # of Threads: 2	 Type 2	 Time elapsed: 26.58652
+n: 25000	 # of Threads: 2	 Type 2	 Time elapsed: 20.86399
+n: 25000	 # of Threads: 2	 Type 2	 Time elapsed: 15.27446
+n: 25000	 # of Threads: 4	 Type 2	 Time elapsed: 12.32912
+n: 25000	 # of Threads: 4	 Type 2	 Time elapsed: 14.59419
+n: 25000	 # of Threads: 4	 Type 2	 Time elapsed: 11.85961
+n: 25000	 # of Threads: 8	 Type 2	 Time elapsed: 7.76933
+n: 25000	 # of Threads: 8	 Type 2	 Time elapsed: 7.76796
+n: 25000	 # of Threads: 8	 Type 2	 Time elapsed: 7.90713
+n: 25000	 # of Threads: 16	 Type 2	 Time elapsed: 11.79895
+n: 25000	 # of Threads: 16	 Type 2	 Time elapsed: 11.58976
+n: 25000	 # of Threads: 16	 Type 2	 Time elapsed: 12.19432
+n: 25000	 # of Threads: 32	 Type 2	 Time elapsed: 15.56794
+n: 25000	 # of Threads: 32	 Type 2	 Time elapsed: 14.84974
+n: 25000	 # of Threads: 32	 Type 2	 Time elapsed: 13.89462
+n: 25000	 # of Threads: 64	 Type 2	 Time elapsed: 13.25279
+n: 25000	 # of Threads: 64	 Type 2	 Time elapsed: 16.88026
+n: 25000	 # of Threads: 64	 Type 2	 Time elapsed: 16.43599
+
+n: 30000	 # of Threads: 1	 Type 0	 Time elapsed: 29.10838
+n: 30000	 # of Threads: 1	 Type 0	 Time elapsed: 29.60341
+n: 30000	 # of Threads: 1	 Type 0	 Time elapsed: 29.07819
+n: 30000	 # of Threads: 1	 Type 1	 Time elapsed: 29.26059
+n: 30000	 # of Threads: 1	 Type 1	 Time elapsed: 29.28308
+n: 30000	 # of Threads: 1	 Type 1	 Time elapsed: 29.55723
+n: 30000	 # of Threads: 2	 Type 1	 Time elapsed: 14.86254
+n: 30000	 # of Threads: 2	 Type 1	 Time elapsed: 14.90640
+n: 30000	 # of Threads: 2	 Type 1	 Time elapsed: 14.93115
+n: 30000	 # of Threads: 4	 Type 1	 Time elapsed: 19.63176
+n: 30000	 # of Threads: 4	 Type 1	 Time elapsed: 20.06943
+n: 30000	 # of Threads: 4	 Type 1	 Time elapsed: 19.47183
+n: 30000	 # of Threads: 8	 Type 1	 Time elapsed: 14.34903
+n: 30000	 # of Threads: 8	 Type 1	 Time elapsed: 14.30185
+n: 30000	 # of Threads: 8	 Type 1	 Time elapsed: 14.38889
+n: 30000	 # of Threads: 16	 Type 1	 Time elapsed: 14.44370
+n: 30000	 # of Threads: 16	 Type 1	 Time elapsed: 14.45629
+n: 30000	 # of Threads: 16	 Type 1	 Time elapsed: 14.43781
+n: 30000	 # of Threads: 32	 Type 1	 Time elapsed: 14.46899
+n: 30000	 # of Threads: 32	 Type 1	 Time elapsed: 14.66232
+n: 30000	 # of Threads: 32	 Type 1	 Time elapsed: 14.72487
+n: 30000	 # of Threads: 64	 Type 1	 Time elapsed: 14.80106
+n: 30000	 # of Threads: 64	 Type 1	 Time elapsed: 14.87468
+n: 30000	 # of Threads: 64	 Type 1	 Time elapsed: 14.80768
+n: 30000	 # of Threads: 1	 Type 2	 Time elapsed: 40.34276
+n: 30000	 # of Threads: 1	 Type 2	 Time elapsed: 40.28240
+n: 30000	 # of Threads: 1	 Type 2	 Time elapsed: 40.23473
+n: 30000	 # of Threads: 2	 Type 2	 Time elapsed: 22.10440
+n: 30000	 # of Threads: 2	 Type 2	 Time elapsed: 21.53903
+n: 30000	 # of Threads: 2	 Type 2	 Time elapsed: 21.97283
+n: 30000	 # of Threads: 4	 Type 2	 Time elapsed: 16.16293
+n: 30000	 # of Threads: 4	 Type 2	 Time elapsed: 18.47418
+n: 30000	 # of Threads: 4	 Type 2	 Time elapsed: 21.16637
+n: 30000	 # of Threads: 8	 Type 2	 Time elapsed: 12.58376
+n: 30000	 # of Threads: 8	 Type 2	 Time elapsed: 12.33540
+n: 30000	 # of Threads: 8	 Type 2	 Time elapsed: 12.14828
+n: 30000	 # of Threads: 16	 Type 2	 Time elapsed: 11.60769
+n: 30000	 # of Threads: 16	 Type 2	 Time elapsed: 11.29914
+n: 30000	 # of Threads: 16	 Type 2	 Time elapsed: 11.57647
+n: 30000	 # of Threads: 32	 Type 2	 Time elapsed: 12.10305
+n: 30000	 # of Threads: 32	 Type 2	 Time elapsed: 12.18076
+n: 30000	 # of Threads: 32	 Type 2	 Time elapsed: 11.87592
+n: 30000	 # of Threads: 64	 Type 2	 Time elapsed: 13.44697
+n: 30000	 # of Threads: 64	 Type 2	 Time elapsed: 13.93485
+n: 30000	 # of Threads: 64	 Type 2	 Time elapsed: 13.51889
+
+n: 40000	 # of Threads: 1	 Type 0	 Time elapsed: 157.16677
+n: 40000	 # of Threads: 1	 Type 0	 Time elapsed: 158.76667
+n: 40000	 # of Threads: 1	 Type 0	 Time elapsed: 158.49403
+n: 40000	 # of Threads: 1	 Type 1	 Time elapsed: 158.28739
+n: 40000	 # of Threads: 1	 Type 1	 Time elapsed: 159.78914
+n: 40000	 # of Threads: 1	 Type 1	 Time elapsed: 158.78648
+n: 40000	 # of Threads: 2	 Type 1	 Time elapsed: 78.41044
+n: 40000	 # of Threads: 2	 Type 1	 Time elapsed: 78.52319
+n: 40000	 # of Threads: 2	 Type 1	 Time elapsed: 78.46043
+n: 40000	 # of Threads: 4	 Type 1	 Time elapsed: 41.63418
+n: 40000	 # of Threads: 4	 Type 1	 Time elapsed: 41.54445
+n: 40000	 # of Threads: 4	 Type 1	 Time elapsed: 41.73411
+n: 40000	 # of Threads: 8	 Type 1	 Time elapsed: 30.14316
+n: 40000	 # of Threads: 8	 Type 1	 Time elapsed: 31.04629
+n: 40000	 # of Threads: 8	 Type 1	 Time elapsed: 30.56224
+n: 40000	 # of Threads: 16	 Type 1	 Time elapsed: 31.51615
+n: 40000	 # of Threads: 16	 Type 1	 Time elapsed: 31.71578
+n: 40000	 # of Threads: 16	 Type 1	 Time elapsed: 31.83505
+n: 40000	 # of Threads: 32	 Type 1	 Time elapsed: 31.69597
+n: 40000	 # of Threads: 32	 Type 1	 Time elapsed: 32.24200
+n: 40000	 # of Threads: 32	 Type 1	 Time elapsed: 32.11784
+n: 40000	 # of Threads: 64	 Type 1	 Time elapsed: 31.60883
+n: 40000	 # of Threads: 64	 Type 1	 Time elapsed: 31.51159
+n: 40000	 # of Threads: 64	 Type 1	 Time elapsed: 31.50529
+n: 40000	 # of Threads: 1	 Type 2	 Time elapsed: 71.68409
+n: 40000	 # of Threads: 1	 Type 2	 Time elapsed: 71.58831
+n: 40000	 # of Threads: 1	 Type 2	 Time elapsed: 71.59458
+n: 40000	 # of Threads: 2	 Type 2	 Time elapsed: 37.68779
+n: 40000	 # of Threads: 2	 Type 2	 Time elapsed: 55.67444
+n: 40000	 # of Threads: 2	 Type 2	 Time elapsed: 39.53799
+n: 40000	 # of Threads: 4	 Type 2	 Time elapsed: 27.30916
+n: 40000	 # of Threads: 4	 Type 2	 Time elapsed: 30.89209
+n: 40000	 # of Threads: 4	 Type 2	 Time elapsed: 25.80430
+n: 40000	 # of Threads: 8	 Type 2	 Time elapsed: 31.79963
+n: 40000	 # of Threads: 8	 Type 2	 Time elapsed: 31.66542
+n: 40000	 # of Threads: 8	 Type 2	 Time elapsed: 31.30183
+n: 40000	 # of Threads: 16	 Type 2	 Time elapsed: 29.82941
+n: 40000	 # of Threads: 16	 Type 2	 Time elapsed: 29.70517
+n: 40000	 # of Threads: 16	 Type 2	 Time elapsed: 30.02146
+n: 40000	 # of Threads: 32	 Type 2	 Time elapsed: 30.91433
+n: 40000	 # of Threads: 32	 Type 2	 Time elapsed: 30.25475
+n: 40000	 # of Threads: 32	 Type 2	 Time elapsed: 30.39265
+n: 40000	 # of Threads: 64	 Type 2	 Time elapsed: 32.30402
+n: 40000	 # of Threads: 64	 Type 2	 Time elapsed: 32.09956
+n: 40000	 # of Threads: 64	 Type 2	 Time elapsed: 31.97016
