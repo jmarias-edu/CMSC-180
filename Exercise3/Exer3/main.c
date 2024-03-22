@@ -505,6 +505,8 @@ int main()
     int tn = 0;
     int type = 0;
     int cores = 0;
+    int threads = 0;
+    int noOfThreadsToRun = 0;
 
     // Initialize File Pointer
     FILE *fptr;
@@ -517,10 +519,10 @@ int main()
 
     while (1)
     {
-        scanf("%d %d %d %d", &n, &tn, &type, &cores);
+        scanf("%d %d %d %d %d", &n, &tn, &type, &cores, &threads);
         fptr = fopen("output.txt", "a");
 
-        if (n < 0 || tn < 0 || type < 0 || cores < 0)
+        if (n < 0 || tn < 0 || type < 0 || cores < 0 || threads < 0)
         {
             break;
         } // exits when n, tn, or type is negative
@@ -543,19 +545,19 @@ int main()
         }
         else if (type == 1)
         {
-            pearsonCorMult(tn, 0, cores);
+            pearsonCorMult(tn, 0, (cores-1)*threads);
         }
         else if (type == 2)
         {
-            pearsonCorMultRow(tn, 0, cores);
+            pearsonCorMultRow(tn, 0, (cores-1)*threads);
         }
         else if (type == 3)
         {
-            pearsonCorMult(tn, 1, cores);
+            pearsonCorMult(tn, 1, (cores-1)*threads);
         }
         else if (type == 4)
         {
-            pearsonCorMultRow(tn, 1, cores);
+            pearsonCorMultRow(tn, 1, (cores-1)*threads);
         }
 
         // Testing Function to check output

@@ -124,3 +124,14 @@ n: 40000	 # of Threads: 32	 Type 4	 # of cores: 5	 Time elapsed: 27.40884
 n: 40000	 # of Threads: 64	 Type 4	 # of cores: 5	 Time elapsed: 28.28538
 n: 40000	 # of Threads: 64	 Type 4	 # of cores: 5	 Time elapsed: 27.63021
 n: 40000	 # of Threads: 64	 Type 4	 # of cores: 5	 Time elapsed: 28.10774
+n: 20000	 # of Threads: 8	 Type 3	 # of cores: 5	 Time elapsed: 9.03956
+n: 40000	 # of Threads: 16	 Type 3	 # of cores: 11	 Time elapsed: 51.15035
+n: 40000	 # of Threads: 16	 Type 4	 # of cores: 11	 Time elapsed: 18.09052
+n: 40000	 # of Threads: 16	 Type 3	 # of cores: 11	 Time elapsed: 50.92797
+n: 40000	 # of Threads: 16	 Type 4	 # of cores: 11	 Time elapsed: 18.13063
+n: 30000	 # of Threads: 16	 Type 3	 # of cores: 11	 Time elapsed: 25.79838
+n: 30000	 # of Threads: 16	 Type 4	 # of cores: 11	 Time elapsed: 10.38876
+n: 30000	 # of Threads: 16	 Type 3	 # of cores: 6	 Time elapsed: 27.32705
+n: 30000	 # of Threads: 16	 Type 4	 # of cores: 6	 Time elapsed: 11.24304
+n: 30000	 # of Threads: 16	 Type 3	 # of cores: 6	 Time elapsed: 26.78755
+n: 30000	 # of Threads: 16	 Type 3	 # of cores: 6	 Time elapsed: 26.56342

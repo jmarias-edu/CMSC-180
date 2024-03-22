@@ -21,18 +21,18 @@ void populate(struct pearson_in *in, struct pearson_out *out, int x){
     in->matrix = (double *)(((char *)in) + sizeof(struct pearson_in) + x*sizeof(double));
     out->output = (double *)(((char *)out) + sizeof(struct pearson_out));
 
-    // double weight[] = {3.63, 3.02, 3.82, 3.42, 3.59, 2.87, 3.03, 3.46, 3.36, 3.3};
-    // double length[] = {53.1, 49.7, 48.4, 54.2, 54.9, 43.7, 47.2, 45.2, 54.4, 50.4};
+    double weight[] = {3.63, 3.02, 3.82, 3.42, 3.59, 2.87, 3.03, 3.46, 3.36, 3.3};
+    double length[] = {53.1, 49.7, 48.4, 54.2, 54.9, 43.7, 47.2, 45.2, 54.4, 50.4};
 
     for(int i=0; i<x; i++){
-        in->y[i] = (double) (rand() % 10000 + 1 ) / 100;
-        // in->y[i] = length[i];
+        // in->y[i] = (double) (rand() % 10000 + 1 ) / 100;
+        in->y[i] = length[i];
     }
 
     for(int i=0; i<x; i++){
         for(int j=0; j<x; j++){
-            in->matrix[i*x+j] = (double) (rand() % 10000 + 1 ) / 100;
-            // in->matrix[i*x+j] = weight[i];
+            // in->matrix[i*x+j] = (double) (rand() % 10000 + 1 ) / 100;
+            in->matrix[i*x+j] = weight[i];
         }
     }
 }
@@ -129,7 +129,7 @@ int main(){
         gettimeofday(&start, NULL);
         pearson_cor(tocalc, output);
 
-        // printOutput(output, n);
+        printOutput(output, n);
 
         // Checking for final runtime
 

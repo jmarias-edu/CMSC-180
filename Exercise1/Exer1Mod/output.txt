@@ -1,0 +1,2 @@
+n: 10 Time elapsed: 0.00014
+n: 10 Time elapsed: 0.00014
